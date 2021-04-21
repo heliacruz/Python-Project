@@ -1,3 +1,4 @@
+  
 # Enter full names
 print('Enter your first and last name: ')
 fname=input('fname') #First Name
@@ -24,4 +25,3 @@ print('Full Names: ',fullnames)
 print('Phone: ',phone)
 print('Email: ',email)
 print('Down Payment: ',down_payment)
-    
